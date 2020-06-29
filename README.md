@@ -6,7 +6,7 @@ More  extensive  evaluation  andcode can be found at our lab website: (https://s
   &nbsp
   &nbsp
   &nbsp
-  <img width="320" height="520" src=Figures/results.png>
+  <img width="312" height="510" src=Figures/results.png>
 </p>
 
 PyTorch code of the paper "Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction". [pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.pdf)
